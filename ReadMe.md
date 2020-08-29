@@ -1,4 +1,4 @@
-# JCAIN.DEV [![JCAIN.DEV Logo](https://cdn.pixabay.com/photo/2017/04/02/23/24/machu-picchu-2197157_960_720.jpg)](http://jcain.dev)
+# [![JCAIN.DEV Logo](https://cdn.pixabay.com/photo/2017/04/02/23/24/machu-picchu-2197157_960_720.jpg)](http://jcain.dev)
 
 [![Donate](https://img.shields.io/badge/Donate-for_registrar_fees-blue.svg?style=flat-square&logo=paypal)](https://www.paypal.com/)
 

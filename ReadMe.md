@@ -1,7 +1,6 @@
 # [![JCAIN.DEV Logo](https://cdn.pixabay.com/photo/2017/04/02/23/24/machu-picchu-2197157_960_720.jpg)](http://jcain.dev)
 
-[![JCAIN.DEV](https://img.shields.io/badge/jcain.dev-+-FFE70B.svg?style=flat-square)](http://jcain.dev)
-[![PRs](https://github.com/badges/shields/blob/master/logo/bitcoin.svg?style=flat-square&colorB=31a88b&label=Pull%20Requests)](https://github.com/js-org/js.org/pulls?q=is%3Apr+is%3Aclosed+label%3Aadd)
+[![JCAIN.DEV](https://img.shields.io/badge/jcain.dev-+-F7931A.svg?style=flat-square)](http://jcain.dev)
 [![Donate](https://img.shields.io/badge/Donate-for_registrar_fees-blue.svg?style=flat-square&logo=paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RPBWBDBKW62AC)
 
 **The online home of Jered Cain, frontend/fullstack web developer based in Perú**
